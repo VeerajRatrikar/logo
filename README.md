@@ -1,1 +1,1 @@
-This repo contains the logos required for the shppt
+This repo contains the logos of tech stack
